@@ -3,6 +3,9 @@ name = "runic"
 version = "0.1.0"
 authors = ["Brian Rowe <briprowe@gmail.com>"]
 edition = "2018"
+description = "WIP - A distributed data processing pipeline platform."
+license = "MIT"
+repository = "https://github.com/briprowe/runic"
 
 [dependencies]
 etcd = "0.9.0"
